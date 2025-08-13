@@ -23,5 +23,6 @@ Added by: Adel Mumba_202168046
 
 ## PROBLEM STATEMENT 
 Many researchers and students struggle to find relevant papers quickly in the Journal for Natural and Applied Sciences because the volume of submissions has grown and manual tagging is inconsistent. Our project will build an automatic article classification and clustering system to improve discoverability, aid editorial indexing, and enable content-based recommendations.
+
 Added by Gift Ngosa_2021485340
 
